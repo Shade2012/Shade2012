@@ -15,7 +15,7 @@
 
 
 ## Languages and GitHub Stats 
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shade2012&show_icons=true&theme=radical" width="400px" height="310px"  alt="Coding Image" style="margin-right: 20px;">
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shade2012&show_icons=true&theme=radical" width="400px"   alt="Coding Image" style="margin-right: 20px;">
    <div style="margin-bottom: 40px">
     <h3>Hi there, I'm Damar!</h3>
     <p>I'm currently a student with a passion for website and mobile development.</p>
