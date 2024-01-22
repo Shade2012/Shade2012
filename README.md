@@ -23,9 +23,9 @@
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-   <img align="right" src="[https://github.com/Shade2012/Shade2012/assets/123221071/334348de-9b64-424b-a6b7-2f1b1f25a3a8](https://github-readme-stats.vercel.app/api?username=Shade2012&show_icons=true&theme=radical)" width="250px" height="310px"  alt="Coding Image" style="margin-right: 20px;">
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shade2012&show_icons=true&theme=radical" width="250px" height="310px"  alt="Coding Image" style="margin-right: 20px;">
 
-
+https://github-readme-stats.vercel.app/api?username=Shade2012&show_icons=true&theme=radical
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/damar-fikri-haikal-539b65294/)
