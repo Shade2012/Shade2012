@@ -12,18 +12,22 @@
       <li>📫 How to reach me: [damarfikrihaikal2@gmail.com](mailto:damarfikrihaikal2@gmail.com)</li>
       <li>😄 Pronouns: He/Him</li>
     </ul>
-</div>
+
 
 ## Languages and GitHub Stats 
-
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shade2012&show_icons=true&theme=radical" width="250px" height="310px"  alt="Coding Image" style="margin-right: 20px;">
+   <div style="margin-bottom: 40px">
+    <h3>Hi there, I'm Damar!</h3>
+    <p>I'm currently a student with a passion for website and mobile development.</p>
+    <ul>
+      <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li>
+      <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"></li>
+      <li><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"></li>
+      <li><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"></li>
+      <li><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"></li>
+      <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></li>
+    </ul>
+
 
 
 ## Let's Connect
