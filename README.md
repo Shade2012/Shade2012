@@ -25,7 +25,7 @@
 
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shade2012&show_icons=true&theme=radical" width="250px" height="310px"  alt="Coding Image" style="margin-right: 20px;">
 
-https://github-readme-stats.vercel.app/api?username=Shade2012&show_icons=true&theme=radical
+
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/damar-fikri-haikal-539b65294/)
