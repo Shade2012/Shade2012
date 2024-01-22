@@ -1,4 +1,4 @@
-<div class"container">
+<div style="display: flex; justify-content: center; align-items: center;">
 <img src="https://github.com/Shade2012/Shade2012/assets/123221071/334348de-9b64-424b-a6b7-2f1b1f25a3a8" width="250px" alt="Coding Image">
 
 
