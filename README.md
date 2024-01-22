@@ -1,4 +1,4 @@
-<div style="display: flex;">
+<div style="display: flex; align-items: center;">
   <img src="https://github.com/Shade2012/Shade2012/assets/123221071/334348de-9b64-424b-a6b7-2f1b1f25a3a8" width="250px" alt="Coding Image" style="margin-right: 20px;">
   <div>
     <h3>Hi there, I'm Damar!</h3>
@@ -7,7 +7,7 @@
       <li>🔭 I’m currently working on exciting coding projects.</li>
       <li>🌱 I’m continuously learning and improving my skills.</li>
       <li>👯 I’m open to collaboration on interesting projects.</li>
-      <li>💬 Ask me about anything related to coding and technology.</li>
+      <li>💬 Ask me about anything related to coding if I can help.</li>
       <li>📫 How to reach me: [damarfikrihaikal2@gmail.com](mailto:damarfikrihaikal2@gmail.com)</li>
       <li>😄 Pronouns: He/Him</li>
     </ul>
