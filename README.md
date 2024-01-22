@@ -1,5 +1,6 @@
+
 <div style="display: flex;>
-   <img src="https://github.com/Shade2012/Shade2012/assets/123221071/334348de-9b64-424b-a6b7-2f1b1f25a3a8" width="250px" alt="Coding Image" style="margin-right: 20px;">
+   
     <h3>Hi there, I'm Damar!</h3>
     <p>I'm currently a student with a passion for website and mobile development.</p>
     <ul>
@@ -11,7 +12,7 @@
       <li>😄 Pronouns: He/Him</li>
     </ul>
 </div>
-
+<img src="https://github.com/Shade2012/Shade2012/assets/123221071/334348de-9b64-424b-a6b7-2f1b1f25a3a8" width="250px" alt="Coding Image" style="margin-right: 20px;">
 ## Languages and Tools
 
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
