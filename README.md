@@ -1,4 +1,4 @@
-
+<div class"container">
 <img src="https://github.com/Shade2012/Shade2012/assets/123221071/334348de-9b64-424b-a6b7-2f1b1f25a3a8" width="250px" alt="Coding Image">
 
 
@@ -13,7 +13,7 @@ I'm a currently a student with a passion in website and mobile development.
 - 💬 Ask me about anything related to coding and technology.
 - 📫 How to reach me: damarfikrihaikal2@gmail.com
 - 😄 Pronouns: He/Him
-
+</div>
 ## Languages and Tools
 
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
