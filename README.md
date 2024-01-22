@@ -12,7 +12,7 @@
       <li>📫 How to reach me: <a href="mailto:damarfikrihaikal2@gmail.com">damarfikrihaikal2@gmail.com</a></li>
       <li>😄 Pronouns: He/Him</li>
     </ul>
-
+- 📫 How to reach me: [damarfikrihaikal2@gmail.com]
 
 ## Languages and GitHub Stats 
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shade2012&show_icons=true&theme=radical" width="400px" height="180px" alt="Coding Image" style="margin-right: 20px;">
