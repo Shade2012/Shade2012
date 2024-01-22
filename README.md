@@ -17,8 +17,6 @@
 ## Languages and GitHub Stats 
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shade2012&show_icons=true&theme=radical" width="400px" height="310px" alt="Coding Image" style="margin-right: 20px;">
    <div style="margin-bottom: 40px">
-    <h3>Hi there, I'm Damar!</h3>
-    <p>I'm currently a student with a passion for website and mobile development.</p>
     <ul>
       <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li>
       <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"></li>
