@@ -22,9 +22,9 @@
 - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- <div align="right">
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shade2012&show_icons=true&theme=radical)
-  </div>
+
+   <img align="right" src="[https://github.com/Shade2012/Shade2012/assets/123221071/334348de-9b64-424b-a6b7-2f1b1f25a3a8](https://github-readme-stats.vercel.app/api?username=Shade2012&show_icons=true&theme=radical)" width="250px" height="310px"  alt="Coding Image" style="margin-right: 20px;">
+
 
 ## Let's Connect
 
