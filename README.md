@@ -1,4 +1,5 @@
-![Code typing Customizable Isometric Illustrations _ Amico Style](https://github.com/Shade2012/Shade2012/assets/123221071/901e29a9-270f-456f-8c87-b90f55089f86){:width="30px"}
+
+![874683ce-e352-4fdf-a537-50bc48f2fe9f](https://github.com/Shade2012/Shade2012/assets/123221071/334348de-9b64-424b-a6b7-2f1b1f25a3a8)
 
 
 
