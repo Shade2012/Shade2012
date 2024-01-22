@@ -1,7 +1,9 @@
-### Hi there 👋
+![Code typing Customizable Isometric Illustrations _ Amico Style](https://github.com/Shade2012/Shade2012/assets/123221071/901e29a9-270f-456f-8c87-b90f55089f86)
+
+### Hi there I'm Damar.
 
 
-**Shade2012/Shade2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
