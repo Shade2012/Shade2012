@@ -15,7 +15,7 @@
 
 
 ## Languages and GitHub Stats 
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shade2012&show_icons=true&theme=radical" width="400px" height="310px" alt="Coding Image" style="margin-right: 20px;">
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shade2012&show_icons=true&theme=radical" width="400px" height="250px" alt="Coding Image" style="margin-right: 20px;">
    <div style="margin-bottom: 40px">
     <ul>
       <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li>
