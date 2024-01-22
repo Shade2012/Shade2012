@@ -24,7 +24,7 @@
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
-- ## GitHub Stats
+## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shade2012&show_icons=true&theme=radical)
 
