@@ -9,7 +9,7 @@
       <li>🌱 I’m continuously learning and improving my skills.</li>
       <li>👯 I’m open to collaboration on interesting projects.</li>
       <li>💬 Ask me about anything related to coding if I can help.</li>
-      <li>📫 How to reach me: <a href="damarfikrihaikal2@gmail.com">damarfikrihaikal2@gmail.coms</a> </li>
+      <li>📫 How to reach me: <a href="mailto:damarfikrihaikal2@gmail.com">damarfikrihaikal2@gmail.com</a></li>
       <li>😄 Pronouns: He/Him</li>
     </ul>
 
