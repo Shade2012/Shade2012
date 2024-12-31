@@ -1,35 +1,56 @@
+# 👋 Hi there, I'm Damar!
 
 
-   <img align="right" src="https://github.com/Shade2012/Shade2012/assets/123221071/334348de-9b64-424b-a6b7-2f1b1f25a3a8" width="250px" height="310px"  alt="Coding Image" style="margin-right: 20px;">
-   <div style="margin-bottom: 40px">
-    <h3>Hi there, I'm Damar!</h3>
-    <p>I'm currently a student with a passion for website and mobile development.</p>
-    <ul>
-      <li>🔭 I’m currently working on exciting coding projects.</li>
-      <li>🌱 I’m continuously learning and improving my skills.</li>
-      <li>👯 I’m open to collaboration on interesting projects.</li>
-      <li>💬 Ask me about anything related to coding if I can help.</li>
-      <li>📫 How to reach me: <a href="mailto:damarfikrihaikal2@gmail.com">damarfikrihaikal2@gmail.com</a></li>
-      <li>😄 Pronouns: He/Him</li>
-    </ul>
+Welcome to my GitHub! I'm a **student developer** passionate about **web** and **mobile development**, always excited to learn and build amazing things. Here's a little about me:
 
-## Languages, Framework and GitHub Stats 
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shade2012&show_icons=true&theme=radical" width="400px" height="180px" alt="Coding Image" style="margin-right: 20px;">
-   <div style="margin-bottom: 40px">
-    <ul>
-      <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></li>
-      <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></li>
-      <li><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></li>
-      <li><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></li>
-      <li><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></li>
-      <li><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></li>
-    </ul>
+- 🔭 **Currently working on** exciting coding projects.  
+- 🌱 **Always learning** and expanding my skillset.  
+- 👯 **Open to collaboration** on innovative projects.  
+- 💬 **Ask me anything** about coding—I'm happy to help!  
+- 📫 **Contact me at:** [damarfikrihaikal2@gmail.com](mailto:damarfikrihaikal2@gmail.com)  
+- 😄 **Pronouns:** He/Him  
 
-      
-## Let's Connect
+## 🚀 Tools & Technologies
+<p align="left">
+   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/damar-fikri-haikal-539b65294/)
+---
+
+## 📊 GitHub Stats
+
+<div style="display: flex;">
+  <div style="flex: 1; min-width: 400px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shade2012&theme=radical" alt="GitHub Streak" width="400px">
+  </div>
+  <div style="flex: 1; min-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shade2012&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400px">
+  </div>
+  <div style="flex: 2; min-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shade2012&layout=compact&theme=radical&langs_count=10" alt="Top Languages" width="400px">
+  </div>
+</div>
 
 
-Feel free to explore, and I'm open to feedback and suggestions. 😊
 
+
+## 🔧 Current Projects
+- [**Todo API**](https://github.com/Shade2012/project-name-1): A **Todo API** built using **Rust**, **Axum**, and **MySQL**.
+
+## 🌐 Let's Connect
+<p align="left">
+   <a href="https://www.linkedin.com/in/damar-fikri-haikal-539b65294/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+   </a>
+   <a href="mailto:damarfikrihaikal2@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+   </a>
+</p>
+
+### 🎯 **Want to Collaborate?**
+If you have a cool project idea or need a developer for your team, feel free to reach out. Let's build something awesome together!
