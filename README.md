@@ -8,7 +8,6 @@ Welcome to my GitHub! I'm a **student developer** passionate about **web** and *
 - 👯 **Open to collaboration** on innovative projects.  
 - 💬 **Ask me anything** about coding—I'm happy to help!  
 - 📫 **Contact me at:** [damarfikrihaikal2@gmail.com](mailto:damarfikrihaikal2@gmail.com)  
-- 😄 **Pronouns:** He/Him  
 
 ## 🚀 Tools & Technologies
 <p align="left">
