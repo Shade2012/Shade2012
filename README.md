@@ -39,7 +39,7 @@ Welcome to my GitHub! I'm a **student developer** passionate about **web** and *
 
 
 ## 🔧 Current Projects
-- [**Todo API**](https://github.com/Shade2012/project-name-1): A **Todo API** built using **Rust**, **Axum**, and **MySQL**.
+- [**Holytea API**](https://github.com/Shade2012/holytea-api): A **Todo API** built using **Rust**, **Axum**, and **MySQL**.
 
 ## 🌐 Let's Connect
 <p align="left">
